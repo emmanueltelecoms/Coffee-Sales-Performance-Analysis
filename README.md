@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Performance Analysis (End-to-End Excel Project)
+#  Coffee Sales Performance Analysis (End-to-End Excel Project)
 
 ## Project Overview
 
@@ -8,14 +8,14 @@ This analysis showcases end-to-end data skills, including **advanced data cleani
 
 ---
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 * **Primary Tool:** **Microsoft Excel** (Advanced Formulas, Pivot Tables, Conditional Formatting, Data Cleaning, and Dashboard Visualization)
 * **Documentation:** Professional Analytical Report (DOCX)
 
 ---
 
-## 🔑 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The analysis was built around tracking and visualizing the following core metrics:
 
@@ -27,7 +27,7 @@ The analysis was built around tracking and visualizing the following core metric
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 * **Core Driver:** Coffee is the dominant revenue generator, but low sales in the "Coffee Beans" category indicate a missed opportunity for higher-margin sales.
 * **Operational Peak:** The period between **7 AM and 11 AM** is the most crucial for daily operations, demanding optimized staffing and inventory management.
@@ -35,7 +35,7 @@ The analysis was built around tracking and visualizing the following core metric
 
 ---
 
-## 📝 Project Files and Documents
+##  Project Files and Documents
 
 This repository contains all the necessary files to review the analysis:
 
